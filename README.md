@@ -16,6 +16,6 @@ O fluxo da aplicação segue o seguinte formato:
 
 # Referências
 - Documentação do framework: [Flutter](https://flutter.io/)
-- Tutorial1: [Codelab](https://flutter.io/get-started/codelab/)
+- Tutorial: [Codelab](https://flutter.io/get-started/codelab/)
 - Pacote para criação das palavras: [English_words](https://pub.dartlang.org/packages/english_words)
 - Material design guidelines: [Design](https://material.io)
